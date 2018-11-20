@@ -1,0 +1,3 @@
+Add following option when you invoke jx install command
+
+  jx install --ingress-namespace metallb-system
